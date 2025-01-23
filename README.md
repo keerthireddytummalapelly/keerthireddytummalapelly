@@ -9,9 +9,9 @@ A little more about me...
 - 📫 How to reach me tummalapellykeerthireddy@gmail.com
 - ⚡ I debug code for fun—stress cries optional, happiness guaranteed! 😄
 
-
 #### 👨🏻‍💻 Languages and Tools <br />
+
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/angular.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react.svg" width="50"></a>
-  
-  
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg" width="50"></a>
+<a href="#"><img src="/assets/C# (CSharp).png" width="50"></a>
