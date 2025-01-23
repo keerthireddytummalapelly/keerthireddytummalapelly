@@ -11,8 +11,7 @@ A little more about me...
 
 
 #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/angular.svg"></code>
-  <code><img height="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/react.svg"></code>
-  <code><img height="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg"></code>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/angular.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react.svg" width="50"></a>
   
   
