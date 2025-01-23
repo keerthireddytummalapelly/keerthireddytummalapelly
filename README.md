@@ -4,12 +4,15 @@
 
 A little more about me...
 
+- I’m a software developer
 - 🌱 I’m currently learning
 - 📫 How to reach me tummalapellykeerthireddy@gmail.com
 - ⚡ I debug code for fun—stress cries optional, happiness guaranteed! 😄
 
 
 #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="/assets/Django.svg"></code>
+  <code><img height="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/angular.svg"></code>
+  <code><img height="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/react.svg"></code>
+  <code><img height="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg"></code>
   
   
