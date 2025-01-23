@@ -2,11 +2,12 @@
 <img align='right' src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="230">
 </em></p>
 
-### A little more about me...
+### 👻 A little more about me...
 
 - 📖 I recently graduated with a Master of Science in CS from SUNY Albany.
 - 🌱 I’m currently enhancing my skills for backend and full-stack development roles!
 - ⚡ I debug code for fun—stress cries optional, happiness guaranteed! 😄
+- 🤘 Feel free to reach me out at **tummalapellykeerthireddy@gmail.com**
 
 ### 📫 How to reach me:
 
