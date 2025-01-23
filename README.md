@@ -31,5 +31,6 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
 
-### Git stats
-![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthireddytummalapelly&show_icons=true&bg_color=00000000)
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthireddytummalapelly&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthireddytummalapelly&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
