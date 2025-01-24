@@ -11,10 +11,14 @@
 
 ### 📫 How to reach me:
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/keerthireddytummalapelly)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keerthi-reddy-tummalapelly/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tummalapellykeerthireddy@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/keerthireddy19/)
+
+### 🔍 Feel free to check out my work:
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/keerthireddytummalapelly)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0077B5?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/keerthireddy19/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tummalapellykee1)
 
 
 ### 👨🏻‍💻 Languages and Tools <br />
