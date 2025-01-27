@@ -7,7 +7,7 @@
 - 📖 I recently graduated with a Master of Science in CS from SUNY Albany.
 - 🌱 I’m currently enhancing my skills for backend and full-stack development roles!
 - ⚡ I debug code for fun—stress cries optional, happiness guaranteed! 😄
-- 🤘 **[My portfolio](https://www.keerthireddytummalapelly.com)**
+- 🤘 My portfolio—**(https://www.keerthireddytummalapelly.com)**
 
 ### 📫 How to reach me:
 
