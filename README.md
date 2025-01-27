@@ -14,14 +14,14 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tummalapellykeerthireddy@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keerthi-reddy-tummalapelly/)
 
-### 🔍 Feel free to check out my work:
+### 🔍 Take a peek at what I’ve been working on:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/keerthireddytummalapelly)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-0077B5?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/keerthireddy19/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tummalapellykee1)
 
-
 ### 👨🏻‍💻 Languages and Tools <br />
+
 <a href="https://www.python.org/" target="_blank" ><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-light.svg" width="40"></a>
 <a href="https://www.java.com/en/" target="_blank" ><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-light.svg" width="40"></a>
 <a href="https://devdocs.io/c/" target="_blank" ><img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-light.svg" width="40"></a>
@@ -51,6 +51,5 @@
 <a href="https://git-scm.com/" target="_blank" ><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="40"></a>
 <a href="https://www.linux.org/" target="_blank" ><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linux-light.svg" width="40"></a>
 
-
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthireddytummalapelly&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthireddytummalapelly&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
