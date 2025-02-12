@@ -12,7 +12,7 @@
 ### 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tummalapellykeerthireddy@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keerthi-reddy-tummalapelly/)
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/keerthi-reddy-tummalapelly/)
 
 ### 🔍 Take a peek at what I’ve been working on:
 
