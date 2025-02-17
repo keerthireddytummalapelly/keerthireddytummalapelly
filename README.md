@@ -4,7 +4,7 @@
 
 ### 👻 A little more about me...
 
-- 📖 I recently graduated with a Master of Science in CS from SUNY Albany.
+- 📖 MSCS from SUNY Albany—Graduated Dec 2024.
 - 🌱 I’m currently enhancing my skills for backend and full-stack development roles!
 - ⚡ I debug code for fun—stress cries optional, happiness guaranteed! 😄
 - 🤘 My portfolio—**https://www.keerthireddytummalapelly.com**
