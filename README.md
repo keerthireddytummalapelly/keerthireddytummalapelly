@@ -7,7 +7,7 @@
 - 📖 MSCS from SUNY Albany.
 - 🌱 I’m currently enhancing my skills for backend and full-stack development roles!
 - ⚡ I debug code for fun—stress cries optional, happiness guaranteed! 😄
-- 🤘 [![My Portfolio](assets/portfolio-screenshot.png)](https://keerthi-portfolio-mu.vercel.app/)
+<!-- - 🤘 [![My Portfolio](assets/portfolio-screenshot.png)](https://keerthi-portfolio-mu.vercel.app/) -->
 
 
 ### 📫 How to reach me:
