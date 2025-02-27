@@ -4,15 +4,16 @@
 
 ### 👻 A little more about me...
 
-- 📖 MSCS from SUNY Albany—Graduated Dec 2024.
+- 📖 MSCS from SUNY Albany.
 - 🌱 I’m currently enhancing my skills for backend and full-stack development roles!
 - ⚡ I debug code for fun—stress cries optional, happiness guaranteed! 😄
-- 🤘 My portfolio—**https://www.keerthireddytummalapelly.com**
+- 🤘 [![My Portfolio](assets/portfolio-screenshot.png)](https://keerthi-portfolio-mu.vercel.app/)
+
 
 ### 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tummalapellykeerthireddy@gmail.com)
-[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/keerthi-reddy-tummalapelly/)
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/keerthi--t/)
 
 ### 🔍 Take a peek at what I’ve been working on:
 
